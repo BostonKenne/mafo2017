@@ -1,0 +1,9 @@
+/node_modules
+/node_modules/mafo-client/**/*
+/node_modules/mafo-client
+/public/storage
+/vendor
+/.idea
+composer.lock
+Homestead.json
+Homestead.yaml
